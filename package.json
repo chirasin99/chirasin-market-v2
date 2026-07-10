@@ -1,0 +1,9 @@
+{
+  "name": "chirasin-market",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CHIRASIN MARKET - เว็บโฆษณาฟรี",
+  "dependencies": {
+    "@netlify/blobs": "*"
+  }
+}

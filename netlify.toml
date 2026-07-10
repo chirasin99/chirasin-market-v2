@@ -1,0 +1,6 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+# หมายเหตุ: ปรับ "publish" ให้ตรงกับโฟลเดอร์ที่เก็บไฟล์เว็บจริงของคุณ
+# (ถ้า chirasin-market.html อยู่ในโฟลเดอร์ย่อย เช่น public/ ให้เปลี่ยนเป็น publish = "public")
